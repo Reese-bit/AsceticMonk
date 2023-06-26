@@ -1,0 +1,8 @@
+﻿{
+  "name": "Mingo.Base.Editor",
+  "references": [
+    "Mingo.Base.Runtime",
+    "Toolbox",
+    "Toolbox.Editor"
+  ]
+}

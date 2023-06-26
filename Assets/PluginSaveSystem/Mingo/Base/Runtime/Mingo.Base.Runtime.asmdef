@@ -1,0 +1,8 @@
+{
+  "name": "Mingo.Base.Runtime",
+  "references": [
+    "Toolbox",
+    "Unity.EditorCoroutines.Editor",
+    "com.rlabrecque.steamworks.net"
+  ]
+}

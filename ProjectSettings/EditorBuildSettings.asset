@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 590f605fed1463043828134c464ad21f
+  - enabled: 1
+    path: Assets/Scenes/Room.unity
+    guid: c20a8eb95e90184449f25485cbbb1684
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/EvilWizard.unity
+    guid: eb4d3ebe710f4da4d8c34eda0744edd5
+  - enabled: 1
+    path: Assets/Scenes/Prototype Hero.unity
+    guid: c56f39f902da04d4caf532a069d8e7af
+  m_configObjects: {}

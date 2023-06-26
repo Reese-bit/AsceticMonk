@@ -1,0 +1,2 @@
+D:\Unity\2020.3.24\Unity 2020.3.24f1c2\Editor\Project\AsceticMonk\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\Unity\2020.3.24\Unity 2020.3.24f1c2\Editor\Project\AsceticMonk\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

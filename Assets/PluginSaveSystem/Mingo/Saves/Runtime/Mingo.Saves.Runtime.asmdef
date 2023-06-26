@@ -1,0 +1,7 @@
+﻿{
+  "name": "Mingo.Saves.Runtime",
+  "references": [
+    "Mingo.Base.Runtime",
+    "Toolbox"
+  ]
+}
